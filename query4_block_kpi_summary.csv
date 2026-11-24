@@ -1,0 +1,5 @@
+block_id,block_name,mining_type,proved_reserves_mt,extractable_reserves_mt,reserve_recovery_efficiency_pct,boreholes_drilled,avg_rqd_pct,avg_ucs_mpa,avg_gcv_kcal_kg,avg_ash_pct
+MNG-PKOC4,"Manuguru PKOC-IV Mine",Opencast,210.80,165.40,78.46,2,70.0,9.81,3527,34.93
+KGM-BH01,"Kothagudem Exploration Block 01",Exploration,180.00,112.50,62.50,1,50.5,12.61,2935,41.55
+KGM-PVK5,"Padmavathi Khani (PVK-5) Incline",Underground,145.50,98.20,67.49,1,NULL,NULL,5140,23.10
+YLD-KING,"Yellandu King Seam Sector",Underground,95.40,62.10,65.09,0,NULL,NULL,5920,16.90
