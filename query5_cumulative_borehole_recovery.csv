@@ -1,0 +1,15 @@
+borehole_id,from_depth_m,to_depth_m,lithology,thickness_m,recovery_m,cumulative_logged_m,cumulative_recovered_m,running_recovery_pct
+BH-001,10.00,11.00,"Sandstone (Overburden)",1.00,0.96,1.00,0.96,96.00
+BH-001,11.00,13.00,"Coarse Sandstone",2.00,1.88,3.00,2.84,94.67
+BH-001,13.00,13.66,"Weathered Sandstone",0.66,0.00,3.66,2.84,77.60
+BH-001,14.38,16.00,"Coal (TST Seam)",1.62,1.44,5.28,4.28,81.06
+BH-001,16.00,17.01,"Grey Sandstone",1.01,0.61,6.29,4.89,77.74
+BH-001,17.01,19.00,"Sandstone with Shale",1.99,1.20,8.28,6.09,73.55
+BH-001,19.00,19.40,"Fine Sandstone (Roof)",0.40,0.38,8.68,6.47,74.54
+BH-001,19.50,21.35,"Sandstone Roof",1.85,1.78,10.53,8.25,78.35
+BH-001,28.20,30.40,"Coal (TSB Seam)",2.20,0.75,12.73,9.00,70.70
+BH-001,31.00,33.04,"Floor Sandstone",2.04,1.70,14.77,10.70,72.44
+BH-001,36.00,37.27,"Compact Sandstone",1.27,1.18,16.04,11.88,74.06
+BH-001,37.27,37.54,"Sandstone Band",0.27,0.25,16.31,12.13,74.37
+BH-001,40.84,42.00,"Deep Sandstone",1.16,1.01,17.47,13.14,75.21
+BH-001,42.00,43.00,"Deep Sandstone",1.00,0.99,18.47,14.13,76.50
