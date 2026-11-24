@@ -1,0 +1,10 @@
+sample_id,block_name,mining_type,seam_name,moisture_pct,ash_pct,ash_plus_moisture_pct,calculated_fixed_carbon_pct,sample_litho_class,gcv_kcal_kg,assigned_grade,verified_gcv_grade,company_wide_quality_rank
+SMP-007,"Yellandu King Seam Sector",Underground,"King Seam (Main)",5.40,16.90,22.30,47.50,"Coal (<40%)",5920,G5,G5,1
+SMP-001,"Padmavathi Khani (PVK-5) Incline",Underground,"King Seam (Bottom)",5.80,18.40,24.20,46.30,"Coal (<40%)",5650,G6,G6,2
+SMP-002,"Padmavathi Khani (PVK-5) Incline",Underground,"King Seam (Top)",6.20,21.10,27.30,44.60,"Coal (<40%)",5320,G7,G7,3
+SMP-004,"Manuguru PKOC-IV Mine",Opencast,"Thick Seam (Middle)",6.50,24.20,30.70,42.30,"Coal (<40%)",4980,G8,G8,4
+SMP-003,"Padmavathi Khani (PVK-5) Incline",Underground,"Queen Seam",7.40,29.80,37.20,37.40,"Coal (<40%)",4450,G10,G10,5
+SMP-008,"Kothagudem Exploration Block 01",Exploration,"TSB Seam",8.10,34.60,42.70,33.80,"Shaly Coal (40-55%)",3550,G13,G13,6
+SMP-005,"Manuguru PKOC-IV Mine",Opencast,"1 Seam (14m)",8.90,38.50,47.40,30.80,"Shaly Coal (40-55%)",2950,G15,G15,7
+SMP-006,"Manuguru PKOC-IV Mine",Opencast,"H1-H4 Top Layer",9.50,42.10,51.60,28.80,"Shaly Coal (40-55%)",2650,G16,G16,8
+SMP-009,"Kothagudem Exploration Block 01",Exploration,"TST Seam",10.20,48.50,58.70,23.50,"Carbonaceous Shale Low (55-65%)",2320,G17,G17,9
